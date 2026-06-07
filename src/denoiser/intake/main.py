@@ -161,7 +161,7 @@ The urban benefits of allowing tall buildings. “Land-use regulations, includin
 It’s apparently easier to get planning permission to build a skyscraper in London (a city which has notoriously made it almost impossible to build new housing) if you include a publicly accessible roof deck, and thus quite a few London skyscrapers have them. [Diamond Geezer]
 A census map of where air conditioning is uncommon in the US. [X]
 ''',
-'Дякуємо за замовлення 408932733'
+'Дякуємо за замовлення 3434242'
 
 ]
 
